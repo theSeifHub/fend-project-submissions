@@ -1,39 +1,21 @@
-# FEND Project Submissions
+# Memory game
 
-**Project submissions for Udacity's [Front-End Web Developer Nanodegree Program](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) (old version).**
+**Second project submission in FEND**
 
-**This Nanodegree was on a scholarship provided by [One Million Arab Coders](https://www.arabcoders.ae/) initiative.**
+## Project overview
 
-### Table of contents:
+The Memory Game Project is all about demonstrating your mastery of JavaScript. You’ll build a complete browser-based card matching game (also known as Concentration). But this isn’t just any memory game! It’s a shnazzy, well-designed, feature-packed memory game!
 
-- [About FEND](#about-fend)
-- [About OMAC](#about-omac)
-- [Projects included](#projects-included)
+## How the Game Works
 
-## About FEND
+The game board consists of sixteen "cards" arranged in a grid. The deck is made up of eight different pairs of cards, each with different symbols on one side. The cards are arranged randomly on the grid with the symbol face down. The gameplay rules are very simple: flip over two hidden cards at a time to locate the ones that match!
 
-The goal of the Front End Web Developer Nanodegree program is to equip learners with the unique skills they need to build and develop a variety of websites and applications. Graduates of this Nanodegree program will be able to construct responsive websites using CSS, Flexbox and CSS Grid, develop interactive websites and UI (User Interface) applications using JavaScript and HTML, and connect a web application to backend server data using JavaScript. Students will also build competency automating application build and deployment using Webpack and improving offline performance of websites using Service Worker.
+Each turn:
 
-[Download Program Syllabus](https://s3-us-west-2.amazonaws.com/udacity-printer/production/syllabus/syllabus-nd001-ent-default-en-us.pdf)
+- The player flips one card over to reveal its underlying symbol.
+- The player then turns over a second card, trying to find the corresponding card with the same symbol.
+- If the cards match, both cards stay flipped over.
+- If the cards do not match, both cards are flipped face down.
+- The game ends once all cards have been correctly matched.
 
-## About OMAC
-
-In 2017, His Highness Sheikh Mohammed bin Rashid Al Maktoum, UAE Vice President, Prime Minister and Ruler of Dubai, launched the “One Million Arab Coders” initiative; an educational platform that offers free exceptional programs for individuals interested to develop their digital skills.
-
-Being the largest of its kind in the Arab world, the initiative aims to empower one million young Arabs with the essential future skills required for the labor market by learning the language of the future; coding.
-
-Our goal is to graduate a generation of digital experts, equipping them with all the tools required to understand and lead the future through digital transformation.
-
-## Projects included
-
-This repo contains five other branches for five project submissions, all of which passed the review by Udacity team successfuly.
-
-The projects are:
-
-1. Build a Portfolio Site
-2. Memory Game
-3. Classic Arcade Game
-4. Feed Reader Testing
-5. Restaurant Reviews App
-
-- ### [Graduated](https://confirm.udacity.com/2P9H57V6) the nanodegree program sucessfully on February 23, 2020.
+**Get starter code from [this repo](https://github.com/udacity/fend-project-memory-game).**
