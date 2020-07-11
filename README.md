@@ -19,6 +19,8 @@ Make sure the functions you write are **object-oriented** - either class functio
 
 For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
+Get starter code from [this repo](https://github.com/udacity/frontend-nanodegree-arcade-game).
+
 ## Running the Game
 
 - To run the game, open index.html in your browser.
@@ -32,5 +34,3 @@ In this game you have a Player and Enemies (bugs). The goal of the player is to 
 - Avoid the enemy bugs moving at varying speeds on the paved block portion of the game board
 - Once a character collides with an enemy bug, the character moves back to the starting square
 - You win when the princess (i.e. the last character) reaches the water side
-
-  **Get starter code from [this repo](https://github.com/udacity/frontend-nanodegree-arcade-game).**
