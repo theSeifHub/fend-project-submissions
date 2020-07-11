@@ -1,4 +1,4 @@
-# Memory game
+# Memory Game
 
 **Second project submission in FEND**
 
