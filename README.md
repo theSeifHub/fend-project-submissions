@@ -26,7 +26,7 @@ Our goal is to graduate a generation of digital experts, equipping them with all
 
 ## Projects included
 
-This repo contains five other branches for five project submissions, all of which passed the review by Udacity team successfuly.
+This repo contains five other branches for five project submissions, all of which passed the review by Udacity team successfully.
 
 The projects are:
 
@@ -36,4 +36,4 @@ The projects are:
 4. Feed Reader Testing
 5. Restaurant Reviews App
 
-- ### [Graduated](https://confirm.udacity.com/2P9H57V6) the nanodegree program sucessfully on February 23, 2020.
+- ### [Graduated](https://confirm.udacity.com/2P9H57V6) the nanodegree program successfully on February 23, 2020.
