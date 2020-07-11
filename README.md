@@ -1,39 +1,36 @@
-# FEND Project Submissions
+# Classic Arcade Game
 
-**Project submissions for Udacity's [Front-End Web Developer Nanodegree Program](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) (old version).**
+**Third project submission in FEND**
 
-**This Nanodegree was on a scholarship provided by [One Million Arab Coders](https://www.arabcoders.ae/) initiative.**
+## Table of Contents
 
-### Table of contents:
+- [Project Overview](#project-overview)
+- [Udacity Instructions](#udacity-instructions)
+- [Running the Game](#running-the-game)
+- [How to Play](#game-functionality-how-to-play)
 
-- [About FEND](#about-fend)
-- [About OMAC](#about-omac)
-- [Projects included](#projects-included)
+## Project Overview
 
-## About FEND
+Provided are visual assets and a game loop engine; using these tools you must add a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
 
-The goal of the Front End Web Developer Nanodegree program is to equip learners with the unique skills they need to build and develop a variety of websites and applications. Graduates of this Nanodegree program will be able to construct responsive websites using CSS, Flexbox and CSS Grid, develop interactive websites and UI (User Interface) applications using JavaScript and HTML, and connect a web application to backend server data using JavaScript. Students will also build competency automating application build and deployment using Webpack and improving offline performance of websites using Service Worker.
+## Udacity Instructions
 
-[Download Program Syllabus](https://s3-us-west-2.amazonaws.com/udacity-printer/production/syllabus/syllabus-nd001-ent-default-en-us.pdf)
+Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
 
-## About OMAC
+For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
-In 2017, His Highness Sheikh Mohammed bin Rashid Al Maktoum, UAE Vice President, Prime Minister and Ruler of Dubai, launched the “One Million Arab Coders” initiative; an educational platform that offers free exceptional programs for individuals interested to develop their digital skills.
+## Running the Game
 
-Being the largest of its kind in the Arab world, the initiative aims to empower one million young Arabs with the essential future skills required for the labor market by learning the language of the future; coding.
+- To run the game, open index.html in your browser.
+- To reset the game, press F5.
 
-Our goal is to graduate a generation of digital experts, equipping them with all the tools required to understand and lead the future through digital transformation.
+## Game Functionality: How to Play
 
-## Projects included
+In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water, eventually to move all the characters across the stone blocks to the water stream, without colliding into any one of the enemies.
 
-This repo contains five other branches for five project submissions, all of which passed the review by Udacity team successfuly.
+- Use the arrow keys to move the player left, right, up and down
+- Avoid the enemy bugs moving at varying speeds on the paved block portion of the game board
+- Once a character collides with an enemy bug, the character moves back to the starting square
+- You win when the princess (i.e. the last character) reaches the water side
 
-The projects are:
-
-1. Build a Portfolio Site
-2. Memory Game
-3. Classic Arcade Game
-4. Feed Reader Testing
-5. Restaurant Reviews App
-
-- ### [Graduated](https://confirm.udacity.com/2P9H57V6) the nanodegree program sucessfully on February 23, 2020.
+  **Get starter code from [this repo](https://github.com/udacity/frontend-nanodegree-arcade-game).**
