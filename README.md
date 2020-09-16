@@ -6,9 +6,9 @@
 
 ### Table of contents:
 
-- [About FEND](#about-fend)
-- [About OMAC](#about-omac)
-- [Projects included](#projects-included)
+-   [About FEND](#about-fend)
+-   [About OMAC](#about-omac)
+-   [Projects included](#projects-included)
 
 ## About FEND
 
@@ -30,10 +30,10 @@ This repo contains five other branches for five project submissions, all of whic
 
 The projects are:
 
-1. Build a Portfolio Site
-2. Memory Game
-3. Classic Arcade Game
-4. Feed Reader Testing
-5. Restaurant Reviews App
+1. [Build a Portfolio Site](https://github.com/theSeifHub/fend-project-submissions/tree/build-portfolio-site)
+2. [Memory Game](https://github.com/theSeifHub/fend-project-submissions/tree/memory-game)
+3. [Classic Arcade Game](https://github.com/theSeifHub/fend-project-submissions/tree/classic-arcade-game)
+4. [Feed Reader Testing](https://github.com/theSeifHub/fend-project-submissions/tree/feed-reader-testing)
+5. [Restaurant Reviews App](https://github.com/theSeifHub/mws-restaurant-stage) (_a seperate repo_)
 
-- ### [Graduated](https://confirm.udacity.com/2P9H57V6) the nanodegree program successfully on February 23, 2020.
+-   ### [Graduated](https://confirm.udacity.com/2P9H57V6) the nanodegree program successfully on February 23, 2020.
